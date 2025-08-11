@@ -1,0 +1,10 @@
+Total games tried: 8
+Total successful: 0
+639: nay (no downloads found)
+766: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=20)
+960: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=20)
+731: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=20)
+578: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=20)
+804: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=20)
+964: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=20)
+726: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=20)

@@ -1,0 +1,62 @@
+Total games tried: 60
+Total successful: 33
+5: yay
+23: yay
+22: yay
+440: yay
+394: yay
+25: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+3: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+6: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+4: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+7: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+1: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+24: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+438: yay
+441: nay (no working .jar)
+393: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+456: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+453: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+454: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+442: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+445: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+443: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+447: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+459: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+466: yay
+477: yay
+471: yay
+492: yay
+464: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+463: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+493: yay
+501: yay
+498: yay
+491: yay
+726: nay (no downloads found)
+578: nay (no downloads found)
+766: nay (no working .jar)
+964: nay (no downloads found)
+639: nay (no downloads found)
+731: nay (no working .jar)
+804: nay (no downloads found)
+960: nay (no downloads found)
+505: yay
+504: yay
+714: yay
+502: yay
+699: yay
+950: yay
+509: yay
+951: yay
+503: yay
+976: yay
+978: yay
+977: yay
+974: yay
+996: yay
+954: yay
+999: yay
+997: yay
+1000: yay
+995: yay

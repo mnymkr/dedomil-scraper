@@ -1,0 +1,1002 @@
+Total games tried: 1000
+Total successful: 712
+2: yay
+8: yay
+10: yay
+9: yay
+12: yay
+11: yay
+13: yay
+14: yay
+15: yay
+16: yay
+18: yay
+4: nay (error)
+7: nay (error)
+3: nay (error)
+6: nay (error)
+1: nay (error)
+5: nay (no working .jar)
+17: yay
+19: yay
+20: yay
+21: yay
+27: yay
+28: yay
+29: yay
+23: nay (error)
+24: nay (error)
+22: nay (error)
+25: nay (error)
+26: nay (no working .jar)
+30: nay (no working .jar)
+31: nay (error)
+32: nay (error)
+33: nay (error)
+34: nay (error)
+36: nay (error)
+35: nay (error)
+37: nay (error)
+38: nay (error)
+39: nay (error)
+40: nay (error)
+41: nay (error)
+49: yay
+42: nay (error)
+43: nay (error)
+44: nay (error)
+51: yay
+50: yay
+52: yay
+53: yay
+54: yay
+56: yay
+57: yay
+55: yay
+58: yay
+59: yay
+45: nay (error)
+46: nay (error)
+48: nay (error)
+47: nay (error)
+65: yay
+66: yay
+70: yay
+71: yay
+72: yay
+60: nay (error)
+73: yay
+61: nay (no working .jar)
+63: nay (error)
+62: nay (no working .jar)
+64: nay (error)
+67: nay (error)
+68: nay (error)
+69: nay (error)
+74: yay
+75: yay
+76: yay
+77: yay
+78: yay
+79: yay
+80: yay
+84: yay
+85: yay
+86: yay
+82: yay
+83: yay
+81: yay
+88: yay
+87: yay
+89: yay
+90: yay
+92: yay
+91: yay
+93: yay
+95: yay
+94: yay
+96: yay
+98: nay (error)
+97: nay (no working .jar)
+99: nay (error)
+100: nay (error)
+101: nay (error)
+102: nay (error)
+103: nay (error)
+104: nay (error)
+105: nay (error)
+106: nay (error)
+107: nay (error)
+108: nay (error)
+110: nay (error)
+109: nay (error)
+111: nay (error)
+112: nay (error)
+113: nay (error)
+114: nay (error)
+115: nay (error)
+116: nay (error)
+117: yay
+121: yay
+122: yay
+123: yay
+124: yay
+119: yay
+125: yay
+126: yay
+127: yay
+128: yay
+131: yay
+129: yay
+130: yay
+118: nay (error)
+120: nay (error)
+140: yay
+141: yay
+133: nay (error)
+132: nay (no working .jar)
+135: nay (error)
+134: nay (no working .jar)
+136: nay (error)
+137: nay (error)
+138: nay (error)
+144: yay
+142: yay
+143: yay
+139: nay (error)
+145: yay
+146: yay
+147: yay
+148: yay
+149: yay
+150: yay
+155: yay
+153: yay
+154: yay
+151: yay
+152: yay
+159: yay
+157: yay
+160: yay
+158: yay
+161: yay
+163: yay
+164: yay
+165: yay
+162: yay
+156: yay
+166: yay
+169: yay
+167: yay
+168: yay
+170: yay
+171: yay
+176: yay
+172: yay
+173: yay
+179: yay
+177: yay
+178: yay
+175: yay
+180: yay
+174: yay
+181: yay
+182: yay
+183: yay
+184: yay
+189: yay
+187: yay
+192: yay
+188: yay
+193: yay
+186: yay
+185: yay
+190: yay
+194: nay (error)
+195: nay (error)
+197: nay (error)
+196: nay (error)
+198: nay (error)
+201: yay
+200: yay
+199: nay (error)
+202: yay
+209: yay
+204: yay
+205: yay
+208: yay
+212: yay
+213: yay
+191: nay (no working .jar)
+214: yay
+215: yay
+216: yay
+218: yay
+219: yay
+220: yay
+203: nay (no working .jar)
+207: nay (error)
+206: nay (error)
+221: yay
+222: yay
+223: yay
+211: nay (error)
+210: nay (no working .jar)
+224: yay
+225: yay
+229: yay
+230: yay
+228: yay
+231: yay
+233: yay
+232: yay
+234: yay
+235: yay
+217: nay (error)
+237: yay
+238: yay
+236: yay
+240: yay
+239: yay
+242: yay
+244: yay
+243: yay
+241: yay
+227: nay (error)
+246: yay
+226: nay (no working .jar)
+254: yay
+255: yay
+252: yay
+245: yay
+247: nay (no working .jar)
+256: yay
+249: nay (error)
+248: nay (error)
+250: nay (error)
+251: nay (error)
+253: nay (no working .jar)
+260: yay
+259: yay
+264: yay
+257: nay (no working .jar)
+258: nay (error)
+270: yay
+261: nay (error)
+271: yay
+263: nay (error)
+262: nay (no working .jar)
+272: yay
+265: nay (no working .jar)
+266: nay (error)
+267: nay (error)
+268: nay (error)
+277: yay
+278: yay
+269: nay (error)
+280: yay
+279: yay
+281: yay
+283: yay
+282: yay
+284: yay
+286: yay
+285: yay
+290: yay
+288: yay
+287: yay
+289: yay
+273: nay (no working .jar)
+274: nay (no working .jar)
+276: nay (error)
+275: nay (no working .jar)
+291: nay (no working .jar)
+292: nay (error)
+293: nay (error)
+294: nay (error)
+295: nay (error)
+296: nay (error)
+298: nay (no working .jar)
+299: nay (no working .jar)
+300: nay (no working .jar)
+302: yay
+301: yay
+297: yay
+307: yay
+309: yay
+310: yay
+312: yay
+303: nay (error)
+304: nay (no working .jar)
+305: nay (no working .jar)
+306: nay (no working .jar)
+308: nay (error)
+311: nay (no working .jar)
+320: yay
+319: yay
+318: yay
+313: nay (error)
+316: nay (error)
+314: nay (no working .jar)
+315: nay (no working .jar)
+317: nay (error)
+321: nay (error)
+322: nay (error)
+323: nay (error)
+324: nay (error)
+325: nay (error)
+326: nay (error)
+327: nay (error)
+328: nay (error)
+329: nay (error)
+331: yay
+336: yay
+338: yay
+341: yay
+330: nay (error)
+343: yay
+342: yay
+344: yay
+332: nay (error)
+333: nay (error)
+334: nay (error)
+346: yay
+345: yay
+335: nay (error)
+337: nay (error)
+352: yay
+339: nay (error)
+340: nay (error)
+351: yay
+357: yay
+356: yay
+360: yay
+347: nay (no working .jar)
+348: nay (error)
+349: nay (error)
+350: nay (error)
+353: nay (error)
+354: nay (error)
+355: nay (error)
+358: nay (error)
+359: nay (error)
+361: nay (error)
+370: yay
+362: nay (error)
+363: nay (no working .jar)
+364: nay (no working .jar)
+365: nay (no working .jar)
+366: nay (error)
+367: nay (error)
+368: nay (error)
+369: nay (error)
+380: yay
+378: yay
+371: nay (no working .jar)
+372: nay (no working .jar)
+373: nay (error)
+374: nay (error)
+375: nay (error)
+376: nay (error)
+377: nay (error)
+383: yay
+384: yay
+385: yay
+386: yay
+388: yay
+379: nay (no working .jar)
+387: yay
+391: yay
+390: yay
+389: yay
+392: yay
+381: nay (error)
+397: yay
+382: nay (error)
+398: yay
+400: yay
+399: yay
+401: yay
+402: yay
+405: yay
+404: yay
+408: yay
+407: yay
+393: nay (error)
+394: nay (error)
+395: nay (error)
+396: nay (error)
+410: yay
+409: yay
+411: yay
+413: yay
+403: nay (error)
+416: yay
+414: yay
+418: yay
+417: yay
+412: yay
+406: nay (no working .jar)
+419: yay
+420: yay
+422: yay
+421: yay
+424: yay
+423: yay
+425: yay
+426: yay
+415: nay (error)
+433: yay
+435: yay
+434: yay
+427: nay (error)
+428: nay (error)
+429: nay (no working .jar)
+430: nay (error)
+431: nay (error)
+432: nay (error)
+436: nay (error)
+437: nay (error)
+438: nay (error)
+439: nay (error)
+449: yay
+440: nay (error)
+441: nay (error)
+442: nay (error)
+443: nay (error)
+444: nay (error)
+445: nay (error)
+446: nay (error)
+447: nay (error)
+448: nay (error)
+450: nay (no working .jar)
+460: yay
+451: nay (error)
+452: nay (error)
+453: nay (error)
+454: nay (error)
+455: nay (error)
+456: nay (error)
+465: yay
+457: nay (error)
+458: nay (error)
+459: nay (error)
+467: yay
+468: yay
+470: yay
+469: yay
+472: yay
+473: yay
+474: yay
+475: yay
+476: yay
+461: nay (error)
+462: nay (error)
+463: nay (error)
+478: yay
+464: nay (error)
+479: yay
+481: yay
+466: nay (no working .jar)
+480: yay
+483: yay
+484: yay
+485: yay
+487: yay
+471: nay (error)
+477: nay (no working .jar)
+482: nay (error)
+495: yay
+489: nay (error)
+486: nay (no working .jar)
+490: nay (error)
+488: nay (no working .jar)
+491: nay (no working .jar)
+493: nay (error)
+492: nay (no working .jar)
+494: nay (error)
+496: nay (error)
+497: nay (error)
+498: nay (error)
+499: nay (error)
+506: yay
+500: nay (error)
+501: nay (error)
+502: nay (error)
+503: nay (error)
+504: nay (error)
+505: nay (error)
+508: yay
+510: yay
+511: yay
+507: yay
+514: yay
+512: yay
+516: yay
+519: yay
+518: yay
+520: yay
+521: yay
+522: yay
+524: yay
+525: yay
+523: yay
+528: yay
+526: yay
+531: yay
+509: nay (error)
+527: yay
+515: nay (error)
+533: yay
+530: yay
+513: nay (no working .jar)
+532: yay
+534: yay
+529: yay
+517: nay (error)
+537: yay
+535: yay
+539: yay
+543: yay
+544: yay
+536: yay
+538: yay
+542: yay
+541: yay
+540: yay
+546: yay
+545: yay
+549: yay
+551: yay
+550: yay
+554: yay
+547: yay
+553: yay
+552: yay
+556: yay
+555: yay
+548: yay
+558: yay
+557: yay
+561: yay
+560: yay
+562: yay
+564: yay
+565: yay
+563: yay
+567: yay
+568: yay
+559: yay
+569: yay
+566: yay
+578: nay (no downloads found)
+570: yay
+571: yay
+573: yay
+572: yay
+574: yay
+577: yay
+576: yay
+579: yay
+575: yay
+580: yay
+582: yay
+581: yay
+586: yay
+585: yay
+584: yay
+587: yay
+589: yay
+590: yay
+588: yay
+591: yay
+593: yay
+592: yay
+596: yay
+599: yay
+600: yay
+601: yay
+595: yay
+583: yay
+602: yay
+604: yay
+605: yay
+597: yay
+607: yay
+610: yay
+611: yay
+598: yay
+609: yay
+603: yay
+594: yay
+612: yay
+615: yay
+613: yay
+618: yay
+608: yay
+619: yay
+616: yay
+606: yay
+623: yay
+620: yay
+624: yay
+622: yay
+626: yay
+621: yay
+625: yay
+627: yay
+614: yay
+629: yay
+628: yay
+630: yay
+631: yay
+632: yay
+633: yay
+634: yay
+635: yay
+636: yay
+617: yay
+639: nay (no downloads found)
+637: yay
+638: yay
+640: yay
+641: yay
+642: yay
+650: yay
+652: yay
+643: yay
+644: yay
+651: yay
+646: yay
+645: yay
+653: yay
+647: yay
+654: yay
+657: yay
+655: yay
+659: yay
+656: yay
+658: yay
+648: yay
+660: yay
+649: yay
+662: yay
+668: yay
+665: yay
+661: yay
+664: yay
+667: yay
+663: yay
+670: yay
+666: yay
+671: yay
+672: yay
+673: yay
+674: yay
+675: yay
+676: yay
+677: yay
+681: yay
+669: yay
+679: yay
+678: yay
+683: yay
+684: yay
+682: yay
+685: yay
+680: yay
+686: yay
+687: yay
+691: yay
+692: yay
+693: yay
+696: yay
+697: yay
+688: yay
+690: yay
+695: yay
+689: yay
+694: yay
+705: yay
+698: yay
+707: yay
+699: nay (error)
+700: nay (error)
+701: nay (error)
+708: yay
+702: nay (error)
+709: yay
+711: yay
+710: yay
+703: nay (error)
+704: nay (no working .jar)
+706: nay (error)
+720: yay
+721: yay
+712: nay (error)
+723: yay
+713: nay (error)
+714: nay (error)
+715: nay (error)
+726: nay (no downloads found)
+716: nay (error)
+717: nay (error)
+718: nay (error)
+719: nay (error)
+724: yay
+731: nay (no working .jar)
+725: yay
+728: yay
+730: yay
+727: yay
+729: yay
+734: yay
+732: yay
+733: yay
+738: yay
+735: yay
+739: yay
+736: yay
+740: yay
+741: yay
+744: yay
+743: yay
+742: yay
+722: nay (error)
+745: yay
+747: yay
+746: yay
+748: yay
+749: yay
+752: yay
+751: yay
+753: yay
+754: yay
+755: yay
+756: yay
+757: yay
+758: yay
+760: yay
+759: yay
+766: nay (no working .jar)
+761: yay
+762: yay
+763: yay
+764: yay
+737: yay
+765: yay
+768: yay
+767: yay
+770: yay
+769: yay
+772: yay
+771: yay
+774: yay
+773: yay
+775: yay
+779: yay
+776: yay
+778: yay
+781: yay
+780: yay
+750: nay (no working .jar)
+777: yay
+783: yay
+782: yay
+785: yay
+784: yay
+789: yay
+790: yay
+791: yay
+786: yay
+787: yay
+788: yay
+793: yay
+795: yay
+792: yay
+794: yay
+804: nay (no downloads found)
+796: yay
+797: yay
+798: yay
+800: yay
+799: yay
+802: yay
+803: yay
+801: yay
+806: yay
+805: yay
+807: yay
+809: yay
+808: yay
+813: yay
+814: yay
+816: yay
+815: yay
+817: yay
+810: yay
+811: yay
+812: yay
+818: yay
+823: yay
+820: yay
+824: yay
+821: yay
+819: yay
+830: yay
+825: yay
+832: yay
+833: yay
+834: yay
+835: yay
+826: yay
+836: yay
+827: yay
+828: yay
+829: yay
+842: yay
+843: yay
+844: yay
+845: yay
+822: yay
+831: yay
+846: yay
+837: yay
+847: yay
+848: yay
+849: yay
+838: yay
+839: nay (error)
+850: yay
+840: nay (error)
+841: nay (error)
+852: yay
+851: yay
+853: yay
+854: yay
+855: yay
+856: yay
+857: yay
+861: yay
+859: yay
+860: yay
+858: yay
+863: yay
+862: yay
+864: yay
+865: yay
+867: yay
+871: yay
+868: yay
+866: yay
+874: yay
+869: yay
+872: yay
+875: yay
+870: yay
+877: yay
+879: yay
+881: yay
+876: yay
+882: yay
+880: yay
+878: yay
+885: yay
+887: yay
+883: yay
+884: yay
+886: yay
+873: yay
+888: yay
+889: yay
+890: yay
+891: yay
+893: yay
+894: yay
+898: yay
+896: yay
+892: yay
+897: yay
+899: yay
+895: yay
+902: yay
+901: yay
+900: yay
+903: yay
+904: yay
+905: yay
+906: yay
+910: yay
+912: yay
+913: yay
+911: yay
+908: yay
+909: yay
+914: yay
+915: yay
+916: yay
+907: yay
+917: yay
+918: yay
+920: yay
+922: yay
+928: yay
+921: yay
+925: yay
+919: yay
+927: yay
+923: yay
+929: yay
+926: yay
+924: yay
+930: yay
+931: yay
+936: yay
+932: yay
+933: yay
+937: yay
+935: yay
+934: yay
+942: yay
+941: yay
+938: yay
+943: yay
+939: yay
+940: yay
+945: yay
+944: yay
+947: nay (no working .jar)
+948: nay (error)
+949: nay (error)
+950: nay (error)
+951: nay (error)
+960: nay (no downloads found)
+958: yay
+957: yay
+954: nay (error)
+946: yay
+956: yay
+952: nay (no working .jar)
+959: yay
+953: nay (no working .jar)
+964: nay (no downloads found)
+955: nay (error)
+961: yay
+963: yay
+967: yay
+971: yay
+972: yay
+973: yay
+965: nay (error)
+962: nay (no working .jar)
+968: nay (error)
+970: nay (error)
+969: nay (error)
+966: nay (no working .jar)
+980: yay
+979: yay
+975: nay (error)
+974: nay (no working .jar)
+982: yay
+983: yay
+976: nay (error)
+981: yay
+977: nay (error)
+984: yay
+985: yay
+989: yay
+988: yay
+990: yay
+986: yay
+987: yay
+991: yay
+993: yay
+992: yay
+994: yay
+978: nay (no working .jar)
+995: nay (no working .jar)
+996: nay (no working .jar)
+1000: nay (error)
+997: nay (no working .jar)
+999: nay (no working .jar)
+998: nay (no working .jar)

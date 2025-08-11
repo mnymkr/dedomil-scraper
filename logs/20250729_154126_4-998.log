@@ -1,0 +1,290 @@
+Total games tried: 288
+Total successful: 193
+3: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+7: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+6: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+24: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+22: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+4: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+5: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+25: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+23: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+1: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+31: yay
+30: yay
+39: yay
+40: yay
+26: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+36: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+35: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+32: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+34: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+33: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+37: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+38: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+61: yay
+47: yay
+45: yay
+63: yay
+62: yay
+64: yay
+42: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+41: yay
+67: yay
+69: yay
+68: yay
+97: yay
+98: yay
+101: yay
+44: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+43: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+48: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+60: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+46: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+99: yay
+100: yay
+102: yay
+103: yay
+104: yay
+106: yay
+105: yay
+108: yay
+110: yay
+109: yay
+107: yay
+111: yay
+113: yay
+115: yay
+112: yay
+120: yay
+114: yay
+116: yay
+118: yay
+132: yay
+135: yay
+133: yay
+136: yay
+194: yay
+197: yay
+134: yay
+138: yay
+195: yay
+139: yay
+137: yay
+196: yay
+198: yay
+199: yay
+191: yay
+203: yay
+217: yay
+210: yay
+211: yay
+207: yay
+227: yay
+226: yay
+251: yay
+206: yay
+247: yay
+248: yay
+249: yay
+257: yay
+265: yay
+250: yay
+261: yay
+253: yay
+267: yay
+258: yay
+262: yay
+263: yay
+273: yay
+275: yay
+274: yay
+291: yay
+266: yay
+268: yay
+276: yay
+269: yay
+292: yay
+293: yay
+304: yay
+305: yay
+308: yay
+294: yay
+296: yay
+298: yay
+299: nay (no working .jar)
+300: nay (no working .jar)
+295: yay
+303: yay
+315: yay
+306: yay
+311: yay
+317: yay
+325: yay
+322: yay
+314: yay
+323: yay
+321: yay
+313: nay (no working .jar)
+326: yay
+324: yay
+329: yay
+334: yay
+316: yay
+330: yay
+335: yay
+328: yay
+337: yay
+327: yay
+339: yay
+332: yay
+340: yay
+348: yay
+347: yay
+354: yay
+350: yay
+349: yay
+333: yay
+355: yay
+358: yay
+353: yay
+359: yay
+361: yay
+366: yay
+363: yay
+365: yay
+375: yay
+362: yay
+369: yay
+364: yay
+376: yay
+377: yay
+379: yay
+371: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+367: yay
+372: nay (no working .jar)
+368: nay (no working .jar)
+373: yay
+395: yay
+374: yay
+396: yay
+403: yay
+406: yay
+415: yay
+428: yay
+427: yay
+382: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+393: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+394: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+437: yay
+439: yay
+436: yay
+429: yay
+432: yay
+444: yay
+431: yay
+430: yay
+446: yay
+438: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+381: yay
+448: yay
+441: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+450: yay
+440: nay (no working .jar)
+451: yay
+443: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+442: nay (no working .jar)
+457: yay
+455: yay
+458: yay
+462: yay
+461: yay
+445: nay (no working .jar)
+447: nay (no working .jar)
+453: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+454: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+456: nay (no working .jar)
+459: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+452: yay
+482: yay
+489: yay
+486: yay
+490: yay
+488: yay
+463: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+464: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+466: nay (no working .jar)
+496: yay
+471: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+477: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+494: yay
+497: yay
+499: yay
+500: yay
+491: nay (no working .jar)
+493: nay (no working .jar)
+492: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+498: nay (no working .jar)
+515: yay
+513: yay
+517: yay
+501: nay (no working .jar)
+502: nay (no working .jar)
+503: nay (no working .jar)
+505: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+504: nay (no working .jar)
+700: yay
+701: yay
+509: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+702: yay
+704: yay
+703: yay
+726: nay (no downloads found)
+578: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+639: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+699: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+731: nay (no working .jar)
+706: nay (no working .jar)
+713: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+714: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+712: nay (no working .jar)
+715: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+804: nay (no downloads found)
+766: nay (no working .jar)
+717: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+716: nay (no working .jar)
+750: yay
+840: yay
+718: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+719: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+722: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+952: yay
+839: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+947: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+964: nay (no downloads found)
+841: nay (no working .jar)
+948: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+949: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+953: yay
+950: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+955: yay
+965: yay
+962: yay
+970: yay
+968: yay
+969: yay
+966: yay
+951: nay (no working .jar)
+975: yay
+960: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+954: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+998: yay
+976: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+977: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+996: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+974: nay (no working .jar)
+978: nay (no working .jar)
+995: nay (no working .jar)
+1000: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+997: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
+999: nay (error), HTTPConnectionPool(host='dedomil.net', port=80): Read timed out. (read timeout=10)
